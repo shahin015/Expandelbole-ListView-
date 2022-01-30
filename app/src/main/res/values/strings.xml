@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Expandel Bole List View</string>
+
+
+
+    <string-array name="abbrevition_list_header">
+        
+        <item>me one</item>
+        <item>me Tow </item>
+        <item>me Three</item>
+        <item>me Four</item>
+        <item>me Five</item>
+        <item>me Six</item>
+        <item>me Seven</item>
+        <item>me Eight</item>
+        <item>me Nine</item>
+        <item>me Ten</item>
+    </string-array>
+    
+    
+    
+    <string-array name="abbrevition_list_child">
+        <item>me child one</item>
+        <item>me child tow </item>
+        <item>me child three</item>
+        <item>me child four</item>
+        <item>me child five</item>
+        <item>me child six</item>
+        <item>me child seven</item>
+        <item>me child eignt</item>
+        <item>me child nine</item>
+        <item>me child ten</item>
+
+
+
+
+    </string-array>
+</resources>
